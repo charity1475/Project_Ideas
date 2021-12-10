@@ -4,3 +4,4 @@ Vendor management
 Vaccine tracking
 Marking Script 
 Gateway Payment
+Student Results (USSD)

@@ -5,3 +5,4 @@ Vaccine tracking
 Marking Script 
 Gateway Payment
 Student Results (USSD)
+Student Notification Portal (SMS and Email)

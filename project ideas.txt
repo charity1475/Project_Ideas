@@ -7,3 +7,6 @@ Gateway Payment
 Student Results (USSD)
 Student Notification Portal (SMS and Email)
 births tracking system
+mobile laboratory service
+e-sewage management system
+

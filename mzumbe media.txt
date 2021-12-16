@@ -1,0 +1,12 @@
+ DEVELOPMENT OF MZUMBE MEDIA APP
+
+
+Information is very important in any sector of the economy , especially technology. There is a shortage of information about activities conducted at Mzumbe university. Things like broadcasts for some entertainment such as football and other sports, ceremonies, art shows and talents, live sessions, tours and timetables for those.
+
+Therefore, there should be a software that can store and provide timely information about what is going on inside the campus and that is Mzumbe media application.
+
+This application is a malt-platform software that can run across several operating system such as windows, mac-OS, Linux, android, and iOS. The MU Media App classifies all the activities undertaken by the university into several categories to make it easier for students or others to find what they want.
+
+If someone in Mzumbe wants to comment, advertise or publish something, there will be a login area for that.
+
+THANKS
